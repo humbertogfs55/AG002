@@ -7,7 +7,7 @@ Para obter resultados diferentes pode-se alterar a seed passada em random_state
 na função:
 ### train_test_split(X, y, test_size=0.2, random_state=42) 
 
-## dependencias:
+# dependencias:
 ### pandas
 ### sklearn.model_selection
 ### sklearn.tree
